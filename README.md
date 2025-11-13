@@ -33,8 +33,7 @@ I'm passionate about building clean, efficient, and user-focused applications �
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https:www.linkedin.com/in/piyush-wagh-4585b7198) 
-- 🌐 [Portfolio Website](https://) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/piyush-wagh-4585b7198/) 
 - 📧 Email: *your.email@example.com*
 
 ---
