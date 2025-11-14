@@ -34,20 +34,12 @@ I'm passionate about building clean, efficient, and user-focused applications �
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/piyush-wagh-4585b7198/) 
-- 📧 Email: *your.email@example.com*
-
----
-
-## ⚙️ GitHub Stats
-
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiyushWagh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushWagh&layout=compact&theme=tokyonight)
+- 📧 Email: *piyushwagh15@gmail.com*
 
 ---
 
 > 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — Cory House
+> — Cory House...
 
 ---
 
